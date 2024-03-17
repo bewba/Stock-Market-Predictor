@@ -8,6 +8,7 @@ import csv
 currTicker = "MSFT"
 
 api_key = admin.getTicker()
+passer = "Hello"
 
 # Finding Stock Price at a timeframe
 # Incomplete
